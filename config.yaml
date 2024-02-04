@@ -37,3 +37,8 @@ monitors:
     url: 'https://blog.cloudflare.com/'
     method: GET
     expectStatus: 200
+  - id: chat-oneite.top
+    name: The fake chatgpt service
+    url: 'http://chat.oneite.top:8181/'
+    method: GET
+    expectStatus: 200
