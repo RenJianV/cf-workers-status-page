@@ -42,3 +42,8 @@ monitors:
     url: 'http://chat.oneite.top:8181/'
     method: GET
     expectStatus: 200
+  - id: JetBrain Code
+    name: the website is a copy of 3.jetbra.in
+    url: 'https://jb.oneiter.top/'
+    method: GET
+    expectStatus: 200
