@@ -47,3 +47,9 @@ monitors:
     url: 'https://jb.oneiter.top/'
     method: GET
     expectStatus: 200
+  - id: qsign
+    name: qsign
+    url: 'https://qsign.oneite.top/'
+    method: GET
+    expectStatus: 200
+    linkable: false
